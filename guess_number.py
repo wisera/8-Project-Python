@@ -48,5 +48,3 @@ class GuessTheNumber:
         self.random_value = random.randint(self.min_value, self.max_value)
 game = GuessTheNumber()
 game.Start()
-
-WIN_CLOSED == True
